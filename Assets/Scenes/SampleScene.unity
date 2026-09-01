@@ -553,8 +553,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2002954881}
-  - component: {fileID: 2002954884}
   - component: {fileID: 2002954883}
+  - component: {fileID: 2002954884}
   m_Layer: 0
   m_Name: Factory
   m_TagString: Untagged
@@ -647,7 +647,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d88a519242f893e4e8bc60e31321f86d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Spawner
-  factory: {fileID: 2002954884}
+  factory: {fileID: 2002954883}
   spawnPosition: {x: 0, y: 20, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
